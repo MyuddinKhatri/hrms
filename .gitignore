@@ -7,7 +7,6 @@ hrms/public/dist
 hrms/public/node_modules
 hrms/docs/current
 node_modules/
-dist/
 __pycache__/
 
 # build/
